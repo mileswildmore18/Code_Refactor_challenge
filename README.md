@@ -5,4 +5,4 @@ I also combined all the duplicate settings in each class to simplify the codes t
 Finally, I made sure the search engines navigate to their correct locations.
 
 # Link
-https://github.com/mileswildmore18/Code_Refactor_challenge
+https://mileswildmore18.github.io/Code_Refactor_challenge/
